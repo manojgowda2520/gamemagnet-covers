@@ -8,3 +8,4 @@ Placeholder cover art for Game Magnet Spotlight listings. Original artwork, 1080
 | `best-game-cover.jpg` | https://cdn.jsdelivr.net/gh/manojgowda2520/gamemagnet-covers@main/best-game-cover.jpg |
 | `4l-the-game-cover.jpg` | https://cdn.jsdelivr.net/gh/manojgowda2520/gamemagnet-covers@main/4l-the-game-cover.jpg |
 | `max-the-game-cover.jpg` | https://cdn.jsdelivr.net/gh/manojgowda2520/gamemagnet-covers@main/max-the-game-cover.jpg |
+| `the-boat-game-cover.jpg` | https://cdn.jsdelivr.net/gh/manojgowda2520/gamemagnet-covers@main/the-boat-game-cover.jpg |
